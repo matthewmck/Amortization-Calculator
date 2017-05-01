@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Amortization Calculator</title>
+	<link rel="stylesheet" type="text/css" href="amortization.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+</head>
+<body>
+
+<div>
+	<div id="display">
+		<div id="paymentInfo">
+			
+		</div>
+		<div id="top">
+			<div>
+				<div class="input"><label for="loan"><strong>Loan Amount:</strong></label></div>
+				<div class="input"><input id="loan" type="text" name="loan" 
+				onkeypress="return isNumber(event)" placeholder="example: 250000"></div>
+			</div>
+			<div>
+				<div class="input"><label for="interest"><strong>Interest Rate:</strong></label></div>
+				<div class="input"><input id="interest" type="text" name="interest" 
+				onkeypress="return isNumberOrDecimal(event)" placeholder="example: 6.7"></div>
+			</div>
+			<div>
+				<div class="input"><label for="term"><strong>Term:</strong></label></div>
+				<div class="input"><input id="term" type="text" name="term" 
+				onkeypress="return isNumber(event)" placeholder="In years"></div>
+			</div>
+			<div id="check">
+			</div>
+			<div class="buttons">
+				<button id="calc">Calculate</button>
+				<button id="reset">Reset</button>
+			</div>
+			
+		</div>
+		<div id="loanInfo">
+			
+		</div>
+	</div>
+	<div id="container">
+
+	</div>
+</div>
+
+
+<script type="text/javascript" src="amortization.js"></script>
+</body>
+</html>
