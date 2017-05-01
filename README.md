@@ -26,3 +26,5 @@ Reset: clears all information displayed and resets inputs.
 - IE
 - Edge
 
+## License
+[MIT](https://github.com/matthewmck/Amortization-Calculator/blob/master/LICENSE) @ Matthew McKee
