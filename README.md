@@ -16,12 +16,13 @@ Calculate: after entering in valid information into the require inputs, the calc
 Reset: clears all information displayed and resets inputs. 
 
 ## Technologies 
--HTML5
--CSS3
--JavaScript
+- HTML5
+- CSS3
+- JavaScript
 
 ## Browser Support 
--Chrome
--Firefox
--IE
--Edge
+- Chrome
+- Firefox
+- IE
+- Edge
+
