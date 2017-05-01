@@ -3,4 +3,4 @@ Estimates monthly loan payments and determines how much is going towards the pri
 
 ## Screenshots
 ![Enter Info](https://raw.githubusercontent.com/matthewmck/Amortization-Calculator/master/Screenshots/enter%20info.JPG)
-![Result](https://raw.githubusercontent.com/matthewmck/Amortization-Calculator/master/Screenshots/result.JPG)
+
