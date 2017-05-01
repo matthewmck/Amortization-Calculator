@@ -15,13 +15,13 @@ Calculate: after entering in valid information into the require inputs, the calc
 
 Reset: clears all information displayed and resets inputs. 
 
-##Technologies
-HTML5
-CSS3
-JavaScript
+## Technologies 
+-HTML5
+-CSS3
+-JavaScript
 
-Browser support
-
-Chrome
-Firefox 5+
-
+## Browser Support 
+-Chrome
+-Firefox
+-IE
+-Edge
