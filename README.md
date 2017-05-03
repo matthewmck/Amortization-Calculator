@@ -13,6 +13,9 @@ Estimates monthly loan payments and determines how much is going towards the pri
 - CSS3
 - JavaScript
 
+## Components Used
+- [Google Fonts: Roboto](https://fonts.google.com/specimen/Roboto)
+
 ## Browser Support 
 - Chrome
 - Firefox
