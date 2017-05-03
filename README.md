@@ -8,6 +8,11 @@ Estimates monthly loan payments and determines how much is going towards the pri
 ## Demo
 [JSFiddle](https://jsfiddle.net/mattmck/77p5acka/)
 
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
+
 ## Browser Support 
 - Chrome
 - Firefox
